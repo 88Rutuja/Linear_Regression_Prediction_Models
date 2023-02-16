@@ -3,5 +3,5 @@ Linear regression is one of the easiest and most popular Machine Learning algori
 # Car_Price_Prediction_Model
 # Problem Statement
 The objective of this project is to do the prediction of car price.
-Aim
-# Aim of this project is the do the prediction of used car price using the dataset. We will also be using machine learning algorithms such as Linear Regression and Lasso.
+# Aim
+Aim of this project is the do the prediction of used car price using the dataset. We will also be using machine learning algorithms such as Linear Regression and Lasso.
